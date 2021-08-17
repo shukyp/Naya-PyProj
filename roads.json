@@ -1,0 +1,66 @@
+[
+  {
+    "1": {
+      "city1": "City-A1",
+      "city2": "City-A2",
+      "distance": 15.2,
+      "status": 1
+    }
+  },
+  {
+    "2": {
+      "city1": "City-A2",
+      "city2": "City-A3",
+      "distance": 7.7,
+      "status": 1
+    }
+  },
+  {
+    "3": {
+      "city1": "City-A2",
+      "city2": "City-B2",
+      "distance": 4.5,
+      "status": 1
+    }
+  },
+  {
+    "4": {
+      "city1": "City-A2",
+      "city2": "City-B1",
+      "distance": 5.6,
+      "status": 1
+    }
+  },
+  {
+    "5": {
+      "city1": "City-B1",
+      "city2": "City-C2",
+      "distance": 13.9,
+      "status": 1
+    }
+  },
+  {
+    "6": {
+      "city1": "City-B2",
+      "city2": "City-C2",
+      "distance": 9.7,
+      "status": 1
+    }
+  },
+  {
+    "7": {
+      "city1": "City-C1",
+      "city2": "City-C2",
+      "distance": 6.3,
+      "status": 1
+    }
+  },
+  {
+    "8": {
+      "city1": "City-C2",
+      "city2": "City-C3",
+      "distance": 23.4,
+      "status": 1
+    }
+  }
+]
